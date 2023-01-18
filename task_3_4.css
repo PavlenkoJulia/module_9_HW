@@ -1,0 +1,38 @@
+.container {
+    margin: 20px 50px;
+}
+
+.number-input {
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    outline: rgb(107, 107, 107);
+}
+
+.btn {
+    padding: 5px 10px;
+    background: rgb(245, 192, 93);
+    border: 1px solid rgb(144, 144, 196);
+    border-radius: 4px;
+    color: rgb(87, 86, 86);
+    outline: none;
+    transition: all .2s ease-in;
+}
+
+.btn:hover {
+    background: rgb(221, 147, 9);
+}
+
+.result {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-image {
+    margin-left: 50px;
+    max-width: 200px;
+}
+
+p {
+    margin-left: 50px;
+}
